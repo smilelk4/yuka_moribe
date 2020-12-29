@@ -198,6 +198,14 @@
   bottom: 10px;
 }
 
+.portfolio-items div{
+  height: 100%;
+}
+
+.portfolio-items li {
+  height: 20rem;
+  overflow: hidden;
+}
 
 /*-----------------------------------------------------------------------------------*/
 /*  TOUCH CAROUSEL
