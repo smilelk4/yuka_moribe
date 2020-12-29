@@ -1,0 +1,13 @@
+.navbar {
+  background-color: $colorNavy;
+  // opacity: .75;
+  z-index: 1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & > * {
+    margin: 0 1rem;
+  }
+}
