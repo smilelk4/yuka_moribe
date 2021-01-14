@@ -2150,3 +2150,9 @@ a#back-to-top.show {
   flex-wrap: wrap;
   align-items: center;
 }
+
+.backgrounds a {
+  width: 30rem;
+  position: relative;
+  margin: auto;
+}
